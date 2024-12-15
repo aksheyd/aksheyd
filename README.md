@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Akshey.
 ![waving](https://github.com/user-attachments/assets/289852cc-9a61-4d71-8ecf-bf4ab60068fa)
 
 - 🔭 I’m currently working on my personal portfolio, an airline blogging website, 🤫 ...
